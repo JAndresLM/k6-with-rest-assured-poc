@@ -55,3 +55,5 @@ target/site/serenity/*
 
 # Windows specific
 Thumbs.db
+
+.vscode/
